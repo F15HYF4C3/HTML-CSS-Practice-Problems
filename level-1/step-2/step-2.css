@@ -1,8 +1,10 @@
 /* Step-2 You can assign padding to all sides of a container by using the padding property. */
 
 .content-left {
-    padding: 40px;
- 
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 /* Step 2 You can assign padding to all sides of a container by using the padding property. */
@@ -27,6 +29,7 @@
     background: #12F3F7;
     width: auto;
     height: 70%;
+    margin-bottom: 40px;
 }
 
 /* Step-2 You can either use float left or position absolute to get this element to in the desired location. */
